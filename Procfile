@@ -1,1 +1,2 @@
-web:node the-link-to-the-file-run-server
+web:node src/virus.py
+
